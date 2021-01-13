@@ -1,0 +1,25 @@
+{
+  "name": "testassert",
+  "version": "1.0.0",
+  "description": "Test assert app",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node tests/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CountRochester/testAssert.git"
+  },
+  "keywords": [
+    "assert",
+    "Node.js"
+  ],
+  "author": "Gusev Andrey <count_rochester@mail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CountRochester/testAssert/issues"
+  },
+  "homepage": "https://github.com/CountRochester/testAssert#readme"
+}
